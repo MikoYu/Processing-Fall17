@@ -24,11 +24,6 @@ Original post: [Instagram](https://www.instagram.com/p/BbvcGDNDv7b/) (the second
 - Sketches with name “…_camera” will be the one being employed on site.
 - Sketches with name “…_video” are demos of the effects.
 
-Screenshots (demo)
-![](Anonymity_documentation/Anonymity_documentation/screenshot-1.png)
-![](Anonymity_documentation/Anonymity_documentation/screenshot-2.png)
-
-
 ### Comments & further iterations
 - To make it faster, scale down the video for CV to process
 - Cory: It likes how robot sees us 🤪
