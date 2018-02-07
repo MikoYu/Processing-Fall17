@@ -17,14 +17,6 @@ It is a representation of the emerging and future virtual world, which helps peo
 [High School Exhibit — SVA BFA Photography & Video](http://bfaphotovideo.sva.edu/highschoolexhibit)
 Original post: [Instagram](https://www.instagram.com/p/BbvcGDNDv7b/) (the second piece)
 
-#### Faces → characterless (though funny) faces
-
-*Reference:*
-(From web)
-![](Anonymity_documentation/Anonymity_documentation/emoji.jpg)
-
-![](Anonymity_documentation/Anonymity_documentation/%E6%B0%91%E5%9B%BD.jpeg)
-
 - - - -
 
 ## Final Deliverables
