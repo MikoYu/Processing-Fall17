@@ -17,14 +17,6 @@ This project will present an interactive, 3D projected animation (or Augmented R
 ## Final Deliverables
 A 2D demo, with 2 processing files.
 
-![](Snowflakes_documentation/Snowflakes_documentation/falling-snow.png)
-Main program - snowflakes falling down
-
-
-![](Snowflakes_documentation/Snowflakes_documentation/drawing.png)
-Draw to generate snowflakes
-
-
 ### Instructions
 1. Run snow/snow.pde to see snowflakes (in snow/data) falling down.
 2. Run snow/snowflake/snowflake.pde, Draw snowflakes on the canvas by dragging the mouse. Press “S” to save; press “Space” to refresh.
